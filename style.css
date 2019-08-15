@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #131313;
+}
+
+header{
+    color: #ffffff;
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 1px #13137D;
+}
+
+
+/*Container*/
+.container{
+    color: #ffffff;
+}
+
+
+/*Jumbotron*/
+.display-4{
+    color: #131313;
+    border-radius: 15px;
+}
+
+.jumbotron-fluid{
+    border-radius: 10px 45px 10px 45px;
+}
+
+.lead{
+    color: #131313;
+}
+
+/*Alert*/
+#alertti{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+/*KORTIT*/
+.card{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.card img{
+    margin-left:33%;
+    max-height: 300px;
+    max-width: 300px;
+}
+
+
+/*Footer*/
+footer{
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
